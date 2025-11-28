@@ -1,0 +1,22 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+
+numpy
+pandas
+scikit-learn
+
+lightgbm
+tensorflow
+statsmodels
+
+requests
+matplotlib
+joblib
+python-dotenv
+starlette
+
+# Optional but recommended for stability
+aiohttp
+yfinance
